@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5kiWFz6wCtvO0MkcjWCJLdbBUbXdT3p4JwZiAjoqHcc=",
+  "Source": "SampleADWebApi.Service",
+  "BasePath": "_content/SampleADWebApi.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
